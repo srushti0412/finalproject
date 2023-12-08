@@ -2,7 +2,7 @@
 
 # Wine Quality Flask Website
 
-This Flask-based web application utilizes a SQLite database to offer insights and analysis on wine quality. It includes data processing functionalities and provides a user-friendly interface for users to interact with the dataset.
+This Flask-based web application utilizes a SQLite database to offer insights and analysis on wine quality. It includes data processing functionalities and provides a user-friendly interface for users to interact with the dataset. The dataset is about the Red Wine Quality. Which is including fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol and quality. 
 
 ## Features
 
